@@ -12,3 +12,7 @@
 
 # Editors
 .vscode
+
+# Nix specific
+result
+result-*
